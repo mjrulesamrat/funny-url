@@ -24,3 +24,5 @@ components/
 static_templates/
 *.sqlite3
 assets/*
+venv
+funny_url/settings/local.py
